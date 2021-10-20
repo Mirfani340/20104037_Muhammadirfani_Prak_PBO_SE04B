@@ -1,5 +1,7 @@
 Modifier
 
+
+
 Class yang sama :
 - Public
 - Private
