@@ -16,7 +16,7 @@ public class Tabungan {
             saldo -= jumlah;
             return true;
         } else {
-            return true;
+            return false;
         }
     }
 

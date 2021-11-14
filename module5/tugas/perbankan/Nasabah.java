@@ -5,7 +5,7 @@ import module5.tugas.perbankan.Tabungan;
 public class Nasabah {
     private String namaAwal;
     private String namaAkhir;
-    private Tabungan tabungan = new Tabungan(0);
+    private Tabungan tabungan = new Tabungan(5000);
 
     public Nasabah(String namaAwal, String namaAkhir) {
         this.namaAwal = namaAwal;
