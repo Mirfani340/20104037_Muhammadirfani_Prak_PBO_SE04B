@@ -1,7 +1,7 @@
 package tugas.percobaan3;
 
 public class A {
-    // Attrbibut di class child harus mengunakan protected
+    // Attrbibut di class parent harus mengunakan protected
     protected int x;
     protected int y;
 
