@@ -6,7 +6,7 @@ public class VirtualDemo {
             Pegawai e = new Gaji("Ini nama", "Samarinda", 2, 2500.00);
             System.out.println("Memanggil mailCheck Berdasarkan Referensi Gaji--");
             System.out.println("\nMemanggil mailCheck Berdasarkan Referensi Pegawai--");
-            s.mailCheck(); 
+            s.mailCheck();
             e.mailCheck();
         }
     }
